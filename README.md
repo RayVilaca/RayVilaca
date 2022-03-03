@@ -30,6 +30,9 @@
   
   ![Snake animation](https://github.com/RayVilaca/RayVilaca/blob/output/github-contribution-grid-snake.svg)
   
+  <div align="center">
+    <h2>Visitantes</h2>
+  </div>
    <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/RayVilaca/count.svg"/>
  </p>
