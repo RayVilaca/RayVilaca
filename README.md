@@ -1,4 +1,7 @@
-### Olá! 👋
+###
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233FF744&size=40&duration=4000&center=true&vCenter=true&width=1000&height=101&lines=Ol%C3%A1%2C+me+chamo+Rayssa.;Sou+estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o.!;Seja+Bem-Vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
 - 🌱 Estou estudando Java.
 - 😄 Pronouns: Ela/Dela
 
