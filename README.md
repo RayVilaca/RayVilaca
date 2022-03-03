@@ -17,6 +17,7 @@
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+        <img align="right" alt="picture" height="180em" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/699325576485273752/948641104713113640/Webp.net-gifmaker.gif">
   </div>
   
   ##
@@ -27,10 +28,10 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  <div align="center">
-      <img alt="picture" height="180em" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/699325576485273752/948641104713113640/Webp.net-gifmaker.gif">
-  </div>
-  
   ![Snake animation](https://github.com/RayVilaca/RayVilaca/blob/output/github-contribution-grid-snake.svg)
+  
+   <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/RayVilaca/count.svg"/>
+ </p>
 
   
