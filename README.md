@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233FF744&size=38&duration=4000&center=true&vCenter=true&width=1000&height=101&lines=Ol%C3%A1%2C+me+chamo+Rayssa.;Sou+estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o.!;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-- 🌱 Estou estudando Java.
-- 😄 Pronouns: Ela/Dela
+- 🌱 Estou atualmente estudando python para análise de dados.
+- 💬 Fala sobre **python, machine learning, IA, AWS, games**
 
 <div align="center">
   <a href="https://github.com/RayVilaca">
