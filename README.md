@@ -24,8 +24,12 @@
   <div align="center">
     <a href="https://www.linkedin.com/in/rayssa-vila%C3%A7a-6b21021a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-  ![Snake animation](https://github.com/RayVilaca/RayVilaca/blob/output/github-contribution-grid-snake.svg)
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RayVilaca/RayVilaca/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RayVilaca/RayVilaca/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
   
   <div align="center">
     <h2>Visitantes</h2>
