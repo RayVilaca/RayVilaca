@@ -1,9 +1,9 @@
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233FF744&size=38&duration=4000&center=true&vCenter=true&width=1000&height=101&lines=Ol%C3%A1%2C+me+chamo+Rayssa.;Sou+estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o.!;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233FF744&size=38&duration=4000&center=true&vCenter=true&width=1000&height=101&lines=Ol%C3%A1%2C+me+chamo+Rayssa.;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-- 🌱 Estou atualmente estudando python para análise de dados.
-- 💬 Fala sobre **python, machine learning, IA, AWS, games**
+- 🌱 Estou atualmente estudando python para ciência de dados.
+- 💬 Fala sobre **python, machine learning, IA, AWS and games**
 
 <div align="center">
   <a href="https://github.com/RayVilaca">
@@ -12,12 +12,11 @@
 </div>
   
  <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-        <img align="right" alt="picture" height="180em" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/699325576485273752/948641104713113640/Webp.net-gifmaker.gif">
+    <img align="center" alt="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+    <img align="center" alt="scikit-learn" height="30" width="40" src="https://hutsons-hacks.info/wp-content/uploads/2021/09/ParallelScikitlearn.png">
+    <img align="center" alt="scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png">
   </div>
   
   ##
