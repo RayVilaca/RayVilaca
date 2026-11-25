@@ -4,21 +4,6 @@ Data Engineer at [Kovi](https://kovi.com.br), working on the data platform: inge
 
 When something in the stack doesn't behave the way it should, I dig into it and report it upstream with a reproduction.
 
-### Open source contributions
-
-| Project | Contribution | Status |
-|---|---|---|
-| [Cube](https://github.com/cube-js/cube) | [PR #12257](https://github.com/cube-js/cube/pull/12257) Hashable null-safe join condition for Trino/Presto Tesseract joins | Open |
-| [Cube](https://github.com/cube-js/cube) | [#12251](https://github.com/cube-js/cube/issues/12251) Null-safe joins between multi-stage CTEs planned as nested loops on Trino/Presto | Open |
-| [Cube](https://github.com/cube-js/cube) | [#12063](https://github.com/cube-js/cube/issues/12063) Implement col_description so BI tools can sync member descriptions | Open |
-| [Apache Ossie](https://github.com/apache/ossie-converters) | [#301](https://github.com/apache/ossie-converters/issues/301) dbt non_additive_dimension dropped on import, turning semi-additive metrics into SUM | Open |
-| [OpenMetadata](https://github.com/open-metadata/OpenMetadata) | [#33285](https://github.com/open-metadata/OpenMetadata/issues/33285) dbt metrics ingested without owner/domain | Fixed |
-| [OpenMetadata](https://github.com/open-metadata/OpenMetadata) | [#33057](https://github.com/open-metadata/OpenMetadata/issues/33057) Metrics from the dbt 1.12+ spec ingested with empty measures | Fixed |
-| [OpenMetadata](https://github.com/open-metadata/OpenMetadata) | [#24883](https://github.com/open-metadata/OpenMetadata/issues/24883) dbt ingestion ignores newer run_results.json with overlapping tests | Fixed |
-| [Apache Airflow](https://github.com/apache/airflow) | [#71202](https://github.com/apache/airflow/issues/71202) KubernetesPodOperator marked SUCCESS when task and child pods are interrupted | Open |
-| [Astronomer Cosmos](https://github.com/astronomer/astronomer-cosmos) | [#2843](https://github.com/astronomer/astronomer-cosmos/issues/2843) WATCHER mode emits invalid asset URIs from unrendered dbt env_var() | Fixed |
-| [dbt-trino](https://github.com/starburstdata/dbt-trino) | [#514](https://github.com/starburstdata/dbt-trino/issues/514) Explicit location breaks __dbt_tmp creation with delete+insert | Open |
-
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
